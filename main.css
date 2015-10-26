@@ -1,0 +1,28 @@
+.brand-logo {
+    background-image: url('http://lorempixel.com/200/200/cats');
+    height: 200px;
+    width: 200px;
+}
+
+opt-in .container {
+    background-color: #EEE;
+    border: 2px solid black;
+    text-align: center;
+}
+
+opt-in .brand-img > * {
+    margin: 20px auto;
+    border: 2px solid blue;
+}
+
+opt-in .form-data {
+    margin-bottom: 20px;
+}
+
+footer .container {
+    margin-top: 20px;
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+    background-color: aquamarine;
+}
